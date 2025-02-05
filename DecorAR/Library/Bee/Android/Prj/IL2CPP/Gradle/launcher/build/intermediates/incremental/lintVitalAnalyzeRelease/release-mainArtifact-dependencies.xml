@@ -1,0 +1,35 @@
+<dependencies>
+  <compile
+      roots="C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,:NativeShare:@aar,:arcore_client:@aar,:ARPresto:@aar,:UnityARCore:@aar,:unityandroidpermissions:@aar,C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"/>
+    <dependency
+        name=":NativeShare:@aar"
+        simpleName=":NativeShare"/>
+    <dependency
+        name=":arcore_client:@aar"
+        simpleName=":arcore_client"/>
+    <dependency
+        name=":ARPresto:@aar"
+        simpleName=":ARPresto"/>
+    <dependency
+        name=":UnityARCore:@aar"
+        simpleName=":UnityARCore"/>
+    <dependency
+        name=":unityandroidpermissions:@aar"
+        simpleName=":unityandroidpermissions"/>
+    <dependency
+        name="C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="Gradle.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>

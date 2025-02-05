@@ -1,0 +1,11 @@
+com.DefaultCompany.DecorAR.launcher-jetified-arcore_client-0 C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\res
+com.DefaultCompany.DecorAR.launcher-pngs-1 C:\Users\Usuario\Documents\GitHub\DecorAR\DecorAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.DecorAR.launcher-resValues-2 C:\Users\Usuario\Documents\GitHub\DecorAR\DecorAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.DecorAR.launcher-rs-3 C:\Users\Usuario\Documents\GitHub\DecorAR\DecorAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.DecorAR.launcher-mergeReleaseResources-4 C:\Users\Usuario\Documents\GitHub\DecorAR\DecorAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.DecorAR.launcher-mergeReleaseResources-5 C:\Users\Usuario\Documents\GitHub\DecorAR\DecorAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.DecorAR.launcher-merged_res-6 C:\Users\Usuario\Documents\GitHub\DecorAR\DecorAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.DecorAR.launcher-main-7 C:\Users\Usuario\Documents\GitHub\DecorAR\DecorAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.DecorAR.launcher-release-8 C:\Users\Usuario\Documents\GitHub\DecorAR\DecorAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.DecorAR.launcher-packaged_res-9 C:\Users\Usuario\Documents\GitHub\DecorAR\DecorAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.DecorAR.launcher-packaged_res-10 C:\Users\Usuario\Documents\GitHub\DecorAR\DecorAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release

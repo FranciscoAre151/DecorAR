@@ -1,0 +1,12 @@
+com.ArevaloGraffBohn.DecorAR2.launcher-jetified-NativeShare-0 C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\res
+com.ArevaloGraffBohn.DecorAR2.launcher-jetified-arcore_client-1 C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\res
+com.ArevaloGraffBohn.DecorAR2.launcher-pngs-2 C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.ArevaloGraffBohn.DecorAR2.launcher-resValues-3 C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.ArevaloGraffBohn.DecorAR2.launcher-rs-4 C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.ArevaloGraffBohn.DecorAR2.launcher-mergeReleaseResources-5 C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.ArevaloGraffBohn.DecorAR2.launcher-mergeReleaseResources-6 C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.ArevaloGraffBohn.DecorAR2.launcher-merged_res-7 C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.ArevaloGraffBohn.DecorAR2.launcher-main-8 C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.ArevaloGraffBohn.DecorAR2.launcher-release-9 C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.ArevaloGraffBohn.DecorAR2.launcher-packaged_res-10 C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.ArevaloGraffBohn.DecorAR2.launcher-packaged_res-11 C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release

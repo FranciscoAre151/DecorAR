@@ -1,0 +1,261 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ArevaloGraffBohn.DecorAR2"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="26"
+9-->C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="34" />
+10-->C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:5-67
+19-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:22-64
+20
+21    <uses-feature android:glEsVersion="0x00030000" />
+21-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-54
+21-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:19-51
+22    <uses-feature
+22-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:36
+23        android:name="android.hardware.touchscreen"
+23-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-52
+24        android:required="false" />
+24-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-33
+25    <uses-feature
+25-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
+26        android:name="android.hardware.touchscreen.multitouch"
+26-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-63
+27        android:required="false" />
+27-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+28    <uses-feature
+28-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-19:36
+29        android:name="android.hardware.touchscreen.multitouch.distinct"
+29-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-72
+30        android:required="false" />
+30-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-33
+31
+32    <uses-permission android:name="android.permission.CAMERA" />
+32-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:5-65
+32-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:22-62
+33
+34    <uses-feature
+34-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:5-25:35
+35        android:name="android.hardware.camera.ar"
+35-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:9-50
+36        android:required="true" />
+36-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-32
+37    <uses-feature
+37-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:5-28:35
+38        android:name="com.google.ar.core.depth"
+38-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:9-48
+39        android:required="true" />
+39-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-32
+40
+41    <queries>
+41-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:13:2-22:12
+42        <intent>
+42-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:14:3-17:12
+43            <action android:name="android.intent.action.SEND" />
+43-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:15:4-56
+43-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:15:12-53
+44
+45            <data android:mimeType="*/*" />
+45-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:16:4-35
+45-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:16:10-32
+46        </intent>
+47        <intent>
+47-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:18:3-21:12
+48            <action android:name="android.intent.action.SEND_MULTIPLE" />
+48-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:19:4-65
+48-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:19:12-62
+49
+50            <data android:mimeType="*/*" />
+50-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:16:4-35
+50-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:16:10-32
+51        </intent>
+52
+53        <package android:name="com.google.ar.core" />
+53-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:21:9-54
+53-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:21:18-51
+54        <package android:name="com.android.vending" />
+54-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:22:9-55
+54-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:22:18-52
+55
+56        <intent>
+56-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:24:9-26:18
+57            <action android:name="com.google.android.play.core.install.BIND_INSTALL_SERVICE" />
+57-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:25:13-96
+57-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:25:21-93
+58        </intent>
+59    </queries>
+60
+61    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+62    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+63    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+64
+65    <application
+65-->C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+66        android:extractNativeLibs="true"
+66-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:18-50
+67        android:icon="@mipmap/app_icon"
+67-->C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+68        android:label="@string/app_name" >
+68-->C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+69        <meta-data
+69-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33:33
+70            android:name="unity.splash-mode"
+70-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-45
+71            android:value="0" />
+71-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-30
+72        <meta-data
+72-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
+73            android:name="unity.splash-enable"
+73-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-47
+74            android:value="True" />
+74-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
+75        <meta-data
+75-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:36
+76            android:name="unity.launch-fullscreen"
+76-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-51
+77            android:value="True" />
+77-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-33
+78        <meta-data
+78-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:36
+79            android:name="unity.render-outside-safearea"
+79-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-57
+80            android:value="True" />
+80-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-33
+81        <meta-data
+81-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-45:50
+82            android:name="notch.config"
+82-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-40
+83            android:value="portrait|landscape" />
+83-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-47
+84        <meta-data
+84-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:9-48:36
+85            android:name="unity.auto-report-fully-drawn"
+85-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-57
+86            android:value="true" />
+86-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-33
+87
+88        <activity
+88-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:9-71:20
+89            android:name="com.unity3d.player.UnityPlayerActivity"
+89-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-66
+90            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+90-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-194
+91            android:exported="true"
+91-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-36
+92            android:hardwareAccelerated="false"
+92-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:13-48
+93            android:launchMode="singleTask"
+93-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-44
+94            android:resizeableActivity="false"
+94-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-47
+95            android:screenOrientation="fullUser"
+95-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-49
+96            android:theme="@style/UnityThemeSelector" >
+96-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-54
+97            <intent-filter>
+97-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:13-63:29
+98                <category android:name="android.intent.category.LAUNCHER" />
+98-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:17-77
+98-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:27-74
+99
+100                <action android:name="android.intent.action.MAIN" />
+100-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:17-69
+100-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:25-66
+101            </intent-filter>
+102
+103            <meta-data
+103-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:13-67:40
+104                android:name="unityplayer.UnityActivity"
+104-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:17-57
+105                android:value="true" />
+105-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:67:17-37
+106            <meta-data
+106-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:68:13-70:40
+107                android:name="notch_support"
+107-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:69:17-45
+108                android:value="true" />
+108-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:70:17-37
+109        </activity>
+110
+111        <meta-data
+111-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:73:9-75:36
+112            android:name="unityplayer.SkipPermissionsDialog"
+112-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:74:13-61
+113            android:value="true" />
+113-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:75:13-33
+114        <meta-data
+114-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:76:9-78:40
+115            android:name="com.google.ar.core"
+115-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:77:13-46
+116            android:value="required" />
+116-->[:unityLibrary] C:\Users\Usuario\Desktop\DecorAR\DecorAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:78:13-37
+117
+118        <activity
+118-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:4:3-145
+119            android:name="com.yasirkula.unity.NativeShareCustomShareDialogActivity"
+119-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:4:13-65
+120            android:exported="false"
+120-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:4:118-142
+121            android:theme="@style/Theme.NativeShareTransparent" />
+121-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:4:66-117
+122
+123        <receiver
+123-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:5:3-85
+124            android:name="com.yasirkula.unity.NativeShareBroadcastListener"
+124-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:5:13-57
+125            android:exported="false" />
+125-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:5:58-82
+126
+127        <provider
+127-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:6:3-10:42
+128            android:name="com.yasirkula.unity.NativeShareContentProvider"
+128-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:7:5-66
+129            android:authorities="com.ArevaloGraffBohn.DecorAR2.NativeShareContentProvider"
+129-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:8:5-70
+130            android:exported="false"
+130-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:9:5-29
+131            android:grantUriPermissions="true" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+131-->[:NativeShare:] C:\Users\Usuario\.gradle\caches\transforms-3\38c8d18c36e22a7c0c4364be13dd1549\transformed\jetified-NativeShare\AndroidManifest.xml:10:5-39
+132        <meta-data
+132-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:32:9-34:41
+133            android:name="com.google.ar.core.min_apk_version"
+133-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:33:13-62
+134            android:value="240220000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+134-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:34:13-38
+135        <activity
+135-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:36:9-42:80
+136            android:name="com.google.ar.core.InstallActivity"
+136-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:37:13-62
+137            android:configChanges="keyboardHidden|orientation|screenSize"
+137-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:38:13-74
+138            android:excludeFromRecents="true"
+138-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:39:13-46
+139            android:exported="false"
+139-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:40:13-37
+140            android:launchMode="singleTop"
+140-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:41:13-43
+141            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+141-->[:arcore_client:] C:\Users\Usuario\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\AndroidManifest.xml:42:13-77
+142    </application>
+143
+144</manifest>
